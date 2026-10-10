@@ -18,8 +18,7 @@
 </div>
 <br><br><br><br>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/aGj-frNYMFEAAAAM/cat-cat-dance.gif">
-<br><br>
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/aGj-frNYMFEAAAAM/cat-cat-dance.gif">
 
 - 🔭 Estou aberto à trabalhos!<br>Estou procurando por novas oportunidades profissionais.
 
@@ -42,3 +41,8 @@
 <a href="https://instagram.com/gui.mcni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
 <!-- </p> -->
  </div>
+<br><br><br><br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilherrme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</p>
