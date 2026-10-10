@@ -43,7 +43,3 @@
 <!-- </p> -->
  </div>
 <br><br><br><br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jguilherrme&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</p>
