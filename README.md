@@ -27,7 +27,7 @@
 
 - 🗂️ Você pode encontrar todos os meus projetos [aqui](https://github.com/jguilherrme?tab=repositories).
 
-- 📄 Conheça o meu [Portfólio](http://supun.traditionalme.life/#resume) aqui!
+- 📄 Conheça o meu [Portfólio](https://jguilherrme.github.io/projeto-portfolio/) aqui!
 <br><br><br><br>
 
 <h3 align="center">
@@ -42,4 +42,3 @@
 <a href="https://instagram.com/gui.mcni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" /></a>
 <!-- </p> -->
  </div>
-<br><br><br><br>
